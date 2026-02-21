@@ -1,6 +1,6 @@
 # #  STRING METHODS (VERY IMPORTANT)
 
-# text1="       hello python learners       "
+# text1="       hello python learner       "
 
 # #Remove Spaces
 
